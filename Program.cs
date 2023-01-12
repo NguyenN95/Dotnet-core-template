@@ -1,4 +1,3 @@
-
 using API.WeatherForecast;
 
 namespace API;
@@ -33,6 +32,9 @@ public class Program
             });
         });
 
+        // DI
+        builder.Services.AddScoped<IWeatherForecastRepo, WeatherForecastRepo>();
+
         var app = builder.Build();
 
         // Configure the HTTP request pipeline.
@@ -52,7 +54,7 @@ public class Program
         app.UseAuthorization();
 
         app.MapGroup("/weatherforecast")
-           .MapWeatherForecastApi()
+           .MapWeatherForecastApis()
            .WithOpenApi();
 
         app.Run();

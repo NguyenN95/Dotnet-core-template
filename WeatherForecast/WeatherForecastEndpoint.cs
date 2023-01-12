@@ -1,18 +1,18 @@
 namespace API.WeatherForecast;
 
-public static class WeatherForecastEndpoints
+public static class WeatherForecastEndpoint
 {
-    public static RouteGroupBuilder MapWeatherForecastApi(this RouteGroupBuilder group)
+    public static RouteGroupBuilder MapWeatherForecastApis(this RouteGroupBuilder group)
     {
         group.MapGet("/", GetWeatherForecast);
         return group;
     }
 
-    public static IResult GetWeatherForecast(HttpContext httpContext)
+    public static IResult GetWeatherForecast(HttpContext httpContext, IWeatherForecastRepo weatherForecastRepo)
     {
-        var summaries = WeatherForecastRepo.GetSummaries();
+        var summaries = weatherForecastRepo.GetSummaries();
         var forecast = Enumerable.Range(1, 5).Select(index =>
-                new WeatherForecast
+                new WeatherForecastModel
                 {
                     Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
                     TemperatureC = Random.Shared.Next(-20, 55),
