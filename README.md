@@ -124,8 +124,6 @@ Download and install [.Net (Dotnet)](https://dotnet.microsoft.com/en-us/download
   dotnet build
   ```
 
-_For more information about `Asp.net core`, please refer to the [Documentation](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis)_
-
 _For more information about `dotnet command`, please refer to the [Documentation](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-build)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
