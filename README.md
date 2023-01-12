@@ -86,7 +86,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Svelte][Svelte.dev]][Svelte-url]
+* [![.Net (Asp.net core) (minimals webapi)][.Net]][.Net-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,24 +99,13 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-Update your npm and nodejs to LTS version or above if you have your nodejs installed.
-```sh
-npm install npm@latest -g
-```
+Download and install [.Net (Dotnet)](https://dotnet.microsoft.com/en-us/download)
 
 ### Installation
 
 1. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Run project development mode
-   ```sh
-   npm run watch
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -126,9 +115,18 @@ npm install npm@latest -g
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+- Runs source code without any explicit compile or launch commands (local, development)
+  ```bash
+  dotnet run
+  ```
+- Builds a project and all of its dependencies (production).
+  ```bash
+  dotnet build
+  ```
 
-_For more information about ..., please refer to the [Documentation](https://example.com)_
+_For more information about `Asp.net core`, please refer to the [Documentation](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis)_
+
+_For more information about `dotnet command`, please refer to the [Documentation](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-build)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -246,5 +244,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 [product-screenshot]: images/screenshot.png
 
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
+[.Net]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+[.Net-url]: https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis
