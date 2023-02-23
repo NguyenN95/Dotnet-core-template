@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/NguyenN95/repo_name">
+  <a href="https://github.com/NguyenN95/Dotnet-core-template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -23,14 +23,14 @@
   <p align="center">
     Project Description
     <br />
-    <a href="https://github.com/NguyenN95/repo_name#readme"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/NguyenN95/Dotnet-core-template#readme"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/NguyenN95/repo_name">View Demo</a>
+    <a href="https://github.com/NguyenN95/Dotnet-core-template">View Demo</a>
     ·
-    <a href="https://github.com/NguyenN95/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/NguyenN95/Dotnet-core-template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/NguyenN95/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/NguyenN95/Dotnet-core-template/issues">Request Feature</a>
   </p>
 </div>
 
@@ -71,7 +71,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `NguyenN95`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description` -->
+<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `NguyenN95`, `Dotnet-core-template`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description` -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,7 +100,7 @@ You will need these tools and guideline to setup and run locally
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/NguyenN95/repo_name.git
+   git clone https://github.com/NguyenN95/Dotnet-core-template.git
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -147,7 +147,7 @@ _For more information about `dotnet run`, `dotnet watch` and `docker-compose` co
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/NguyenN95/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/NguyenN95/Dotnet-core-template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,7 +197,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Nguyen - nguyennguyen7595@gmail.com
 
-Project Link: [https://github.com/NguyenN95/repo_name](https://github.com/NguyenN95/repo_name)
+Project Link: [https://github.com/NguyenN95/Dotnet-core-template](https://github.com/NguyenN95/Dotnet-core-template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -216,23 +216,23 @@ Project Link: [https://github.com/NguyenN95/repo_name](https://github.com/Nguyen
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/NguyenN95/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/NguyenN95/repo_name/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/NguyenN95/Dotnet-core-template.svg?style=for-the-badge
+[contributors-url]: https://github.com/NguyenN95/Dotnet-core-template/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/NguyenN95/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/NguyenN95/repo_name/network/members
+[forks-shield]: https://img.shields.io/github/forks/NguyenN95/Dotnet-core-template.svg?style=for-the-badge
+[forks-url]: https://github.com/NguyenN95/Dotnet-core-template/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/NguyenN95/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/NguyenN95/repo_name/stargazers
+[stars-shield]: https://img.shields.io/github/stars/NguyenN95/Dotnet-core-template.svg?style=for-the-badge
+[stars-url]: https://github.com/NguyenN95/Dotnet-core-template/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/NguyenN95/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/NguyenN95/repo_name/issues
+[issues-shield]: https://img.shields.io/github/issues/NguyenN95/Dotnet-core-template.svg?style=for-the-badge
+[issues-url]: https://github.com/NguyenN95/Dotnet-core-template/issues
 
-[license-shield]: https://img.shields.io/github/license/NguyenN95/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/NguyenN95/repo_name/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/NguyenN95/Dotnet-core-template.svg?style=for-the-badge
+[license-url]: https://github.com/NguyenN95/Dotnet-core-template/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/nguyenn95/
 
 [product-screenshot]: images/screenshot.png
 
