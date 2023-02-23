@@ -229,7 +229,7 @@ Project Link: [https://github.com/NguyenN95/Dotnet-core-template](https://github
 [issues-url]: https://github.com/NguyenN95/Dotnet-core-template/issues
 
 [license-shield]: https://img.shields.io/github/license/NguyenN95/Dotnet-core-template.svg?style=for-the-badge
-[license-url]: https://github.com/NguyenN95/Dotnet-core-template/blob/master/LICENSE.txt
+[license-url]: https://github.com/NguyenN95/Dotnet-core-template/blob/master/LICENSE
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/nguyenn95/
